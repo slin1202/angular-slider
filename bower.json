@@ -1,0 +1,9 @@
+{
+  "name": "angular-slider",
+  "version": "1",
+  "main": "./angular-slider.js",
+  "ignore": [],
+  "dependencies": {
+    "angular": "1.2.28"
+  }
+}
