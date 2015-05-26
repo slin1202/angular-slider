@@ -1,6 +1,6 @@
 {
   "name": "angular-slider",
-  "version": "2",
+  "version": "3",
   "description": "AngularJS module for Twitter-like slider",
   "main": "angular-slider.js",
   "scripts": {
